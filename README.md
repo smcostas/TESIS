@@ -5,7 +5,7 @@ En esta rama se encuentran todos los data sets y código para el capítulo 1
 
 -[Partición de la varianza](https://github.com/smcostas/TESIS/blob/Capitulo-1/varianza.r) : En este archivo se encuentra el código para figura 5 sobre la partición de la varianza de las variables utilizadas en el capítulo.    
 
--[Modelo predictivo de germinación]() : En este archivo se encuentra el código de python para la formulación del modelo predictivo para la germinación de *V. nudiflora*    
+-[Modelo predictivo de germinación](https://github.com/smcostas/TESIS/blob/Capitulo-1/germinacion_modelomasa.py) : En este archivo se encuentra el código de python para la formulación del modelo predictivo para la germinación de *V. nudiflora*    
 
 -[Diferenciales lineales](https://github.com/smcostas/TESIS/blob/Capitulo-1/diferenciales.R) : En este archivo se encuentra el código para los diferenciales lineales con la variable de adecuación germinación, 1/VA y clz (tabla 2).     
 
