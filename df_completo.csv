@@ -1,0 +1,616 @@
+spp,individuo,fruto,tiempo,sv,masa_mg,X,foto,l_cipsela,a_cipsela,l_papus,Latitud,Longitud,altitud,Ecoregion,habito,cod_gps,muestreo,Tribu,tipo_papus
+Porophyllum_obscurum,1,1,4575720,,0.4,NA,21,5.982,0.363,9.675,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,1,2,3911040,,0.6,NA,21,6.257,0.477,8.848,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,1,3,3886548,,0.6,NA,21,5.987,0.296,9.694,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,2,1,5283540,,0.5,NA,22,5.913,0.476,8.798,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,2,2,5036048,,0.6,NA,22,5.992,0.378,8.286,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,2,3,5374792,,0.5,NA,22,5.706,0.474,9.124,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,3,1,5597772,,0.6,NA,23,5.578,0.41,8.387,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,3,2,5246048,,0.5,NA,23,5.075,0.448,8.742,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Porophyllum_obscurum,3,3,5532744,,0.6,NA,23,5.267,0.422,8.015,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Tageteae,setose
+Nardophyllum_armatum,1,1,2672800,,2.5,NA,8,4.68,1.437,10.81,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,1,2,1899388,,6.5,NA,8,5.069,2.005,11.037,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,1,3,2674712,,2.3,NA,8,4.437,1.254,10.842,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,2,1,1702332,,7.1,NA,9,5.876,1.911,10.364,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,2,2,1615628,,7.9,NA,9,6.423,1.878,9.944,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,2,3,1576844,,8.4,NA,9,6.762,1.99,10.357,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,3,1,1653256,,7.2,NA,10,5.818,2.014,9.854,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,3,2,1642996,,7.4,NA,10,6.276,1.973,10.26,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Nardophyllum_armatum,3,3,1523264,,7.5,NA,10,6.402,1.93,10.641,-24.303755,-66.140665,3988.775,Central_Andean_puna,arbusto,Abra Blanca,norte_2022,Astereae,setose
+Senecio_socompae,1,1,3856964,,1.7,NA,11,4.396,0.826,9.554,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Senecio_socompae,1,2,3886688,,1.6,NA,13,4.298,0.749,9.134,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Senecio_socompae,1,3,3579484,,1.7,NA,14,4.163,0.814,8.345,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Senecio_socompae,2,1,2807144,,1.3,NA,15,3.827,0.705,6.434,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Senecio_socompae,2,2,2316192,,1.3,NA,16,3.924,0.751,6.01,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Senecio_socompae,2,3,2451376,,1.1,NA,17,3.487,0.651,6.628,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Senecioneae,setose
+Chromolaena_arnottiana,1,1,5511948,,0.4,NA,53,3.312,0.53,4.547,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,1,2,5159860,,0.32,NA,53,2.815,0.656,4.718,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,1,3,4573908,,0.39,NA,53,2.881,0.676,4.985,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,2,1,6482424,,0.2,NA,56,2.993,0.663,4.517,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,2,2,6512760,,0.24,NA,56,3.314,0.7,4.701,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,2,3,8029740,,0.21,NA,56,3.169,0.568,4.826,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,3,1,5043592,,0.26,NA,57,2.843,0.536,4.667,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,3,2,6839976,,0.21,NA,57,2.66,0.428,4.827,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Chromolaena_arnottiana,3,3,5723220,,0.28,NA,57,2.572,0.524,4.445,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,hierba,Campo Quijano,norte_2022,Eupatorieae,setose
+Senecio_filaginoides,1,1,2952480,,1.2,NA,18,3.53,0.94,7.37,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,1,2,3140976,,1.4,NA,18,3.55,0.97,8.18,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,1,3,3048440,,1.4,NA,18,3.52,1.07,8.42,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,2,1,3152204,,1.5,NA,19,3.38,1.19,8.86,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,2,2,3259844,,1.5,NA,19,3.12,0.85,8.77,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,2,3,2779688,,1.6,NA,19,3.55,1.1,7.83,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,3,1,3142108,,1.3,NA,20,2.86,0.86,6.16,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,3,2,2893000,,0.9,NA,20,2.78,0.81,5.14,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Senecio_filaginoides,3,3,2646232,,0.9,NA,20,3.05,0.76,6.45,-24.587958,-65.845086,2596.357,Monte,arbusto,Barreal,norte_2022,Senecioneae,setose
+Baccharis_effusa,1,1,18125916,,0.044,NA,90,1.197,0.214,7.642,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,1,2,9647300,,0.044,NA,91,1.251,0.292,7.924,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,1,3,13717232,,0.044,NA,92,1.144,0.238,7.883,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,2,1,13657148,,0.06,NA,93,1.102,0.27,7.502,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,2,2,12204208,,0.06,NA,94,1.246,0.286,9.272,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,2,3,15394928,,0.06,NA,95,1.319,0.229,8.973,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,3,1,13955112,,0.054,NA,96,1.349,0.266,10.098,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,3,2,14680296,,0.054,NA,97,1.282,0.243,9.318,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Baccharis_effusa,3,3,14188124,,0.054,NA,98,1.514,0.317,9.388,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Astereae,setose
+Kauna_saltensis,1,1,3558744,,0.19,NA,36,1.732,0.458,4.002,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,1,2,3657860,,0.19,NA,36,1.897,0.545,3.7,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,1,3,5601420,,0.1,NA,36,1.796,0.482,3.664,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,2,1,4764216,,0.11,NA,37,1.522,0.338,3.599,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,2,2,6389076,,0.11,NA,37,1.769,0.217,3.884,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,2,3,5552812,,0.13,NA,37,1.836,0.261,3.518,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,3,1,5406440,,0.17,NA,43,1.944,0.507,3.825,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,3,2,4583828,,0.18,NA,43,1.814,0.489,3.586,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Kauna_saltensis,3,3,4963368,,0.19,NA,43,1.738,0.428,3.716,-24.888016,-65.701031,1633.446,Southern_Andean_Yungas,arbusto,Campo Quijano,norte_2022,Eupatorieae,setose
+Baccharis_tola,1,2,4531688,,0.43,NA,102,2.337,0.442,8.484,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,1,3,5383524,,0.43,NA,102,2.387,0.257,8.1,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,2,1,4769600,,0.343333333333333,NA,101,1.996,0.61,8.188,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,2,2,5985016,,0.343333333333333,NA,101,1.821,0.47,7.768,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,2,3,5505964,,0.343333333333333,NA,101,2.114,0.617,8.048,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,3,1,5405588,,0.36,NA,99,2.204,0.605,7.473,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,3,2,4085008,,0.41,NA,99,2.06,0.429,7.01,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Baccharis_tola,3,3,4870136,,0.42,NA,99,2.545,0.503,7.71,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Astereae,setose
+Chuquiraga_atacamensis,1,1,1208076,,2.3,NA,1,3.944,0.879,4.808,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,1,2,1174076,,2.3,NA,1,3.845,0.976,4.724,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,1,3,1132668,,3.2,NA,1,3.988,1.2,4.312,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,2,1,968372,,3.3,NA,2,3.136,1.186,4.487,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,2,2,1094852,,2.2,NA,2,2.892,1.277,5.118,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,2,3,967604,,1.5,NA,2,3.341,1.255,4.375,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,3,1,770516,,4,NA,3,3.276,1.239,4.518,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,3,2,1176572,,1.6,NA,3,3.307,1.023,4.336,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Chuquiraga_atacamensis,3,3,1169024,,0.9,NA,3,2.667,0.868,3.68,-24.365466,-66.091174,3722.081,Central_Andean_puna,arbusto,Las Cuevas,norte_2022,Barnadesieae,setose
+Mutisia_hamata,1,1,3167840,,1.2,NA,7,9.139,0.874,12.037,-24.365466,-66.091174,3722.081,Central_Andean_puna,subarbusto,Las Cuevas,norte_2022,Mutisieae,setose
+Mutisia_hamata,1,2,2535656,,3.2,NA,7,12.824,0.706,12.785,-24.365466,-66.091174,3722.081,Central_Andean_puna,subarbusto,Las Cuevas,norte_2022,Mutisieae,setose
+Mutisia_hamata,1,3,2575820,,3.6,NA,7,12.872,0.852,12.887,-24.365466,-66.091174,3722.081,Central_Andean_puna,subarbusto,Las Cuevas,norte_2022,Mutisieae,setose
+Baccharis_juncea,1,1,15803652,,0.07,NA,77,0.843,0.324,10.994,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,1,2,16935524,,0.07,NA,78,0.989,0.258,10.391,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,1,3,19778340,,0.07,NA,79,1.079,0.308,9.33,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,2,1,16875364,,0.078,NA,80,0.922,0.369,9.273,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,2,2,12122716,,0.078,NA,81,0.993,0.303,9.805,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,2,3,11582836,,0.078,NA,82,1.027,0.333,9.497,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,3,1,15495684,,0.102,NA,84,1.273,0.407,11.114,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,3,2,15755016,,0.102,NA,85,1.329,0.326,10.019,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Baccharis_juncea,3,3,16669056,,0.102,NA,86,1.056,0.288,10.448,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Astereae,setose
+Campuloclinium_purpurascens,1,1,7840616,,0.05,NA,69,2.122,0.41,3.133,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,1,2,8175080,,0.05,NA,69,2.189,0.371,3.199,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,1,3,7607236,,0.05,NA,69,2.247,0.374,3.233,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,2,1,5388864,,0.06,NA,71,2.602,0.429,3.603,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,2,2,6388224,,0.07,NA,71,2.19,0.428,3.441,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,2,3,7449444,,0.06,NA,71,2.141,0.377,3.379,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,3,1,9111116,,0.06,NA,72,2.349,0.33,3.27,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,3,2,7558032,,0.05,NA,72,2.281,0.345,3.532,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Campuloclinium_purpurascens,3,3,8186852,,0.05,NA,72,2.377,0.319,3.304,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Eupatorieae,setose
+Aphyllocladus_spartioides,1,1,2705468,,1.3,NA,87,3.34,0.67,6.96,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,1,2,2614432,,0.9,NA,87,2.57,0.7,6.67,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,1,3,2449892,,1.8,NA,87,4.81,0.82,7.87,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,2,1,2973036,,1.9,NA,88,4.25,0.83,6.54,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,2,2,2882640,,2,NA,88,4.87,0.93,7.8,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,2,3,3012652,,1.4,NA,88,3.89,0.47,6.5,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,3,1,3072228,,1.4,NA,89,3.16,0.89,8.27,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,3,2,3486452,,1.3,NA,89,2.61,0.74,7.41,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Aphyllocladus_spartioides,3,3,3174468,,1.3,NA,89,2.48,0.71,7.42,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Onoserideae,setose
+Hypochaeris_elata,1,1,4448548,,0.47,NA,62,2.353,0.172,3.464,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Hypochaeris_elata,1,2,5787892,,0.35,NA,62,2.253,0.202,3.189,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Hypochaeris_elata,1,3,4675552,,0.56,NA,62,2.471,0.224,3.394,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Hypochaeris_elata,2,1,3537204,,1.3,NA,64,3.187,0.31,3.567,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Hypochaeris_elata,2,2,4217016,,1.1,NA,64,3.469,0.243,3.564,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Hypochaeris_elata,2,3,4186412,,1.28,NA,64,3.3,0.225,3.489,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Cichorieae,setose
+Senecio_argophylloides,1,1,8070340,,0.46,NA,103,3.788,0.7,8.587,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,1,2,5052192,,0.9,NA,103,3.993,0.776,8.422,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,1,3,4860772,,0.64,NA,103,3.733,0.717,7.078,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,2,1,2968476,,0.74,NA,104,3.888,0.602,6.563,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,2,2,2643672,,0.87,NA,104,3.517,0.512,6.537,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,2,3,2842556,,0.8,NA,104,3.458,0.573,6.168,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,3,1,3722852,,1.07,NA,105,3.806,0.78,6.081,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,3,2,4846836,,0.55,NA,105,3.963,0.726,6.205,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_argophylloides,3,3,4311952,,1.07,NA,105,3.629,0.707,6.374,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Chuquiraga_erinaceae,1,1,1685728,,2.02,NA,44,3.668,1.42,6.783,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,1,2,1289304,,2.23,NA,44,3.597,1.244,7.229,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,1,3,1915820,,1.92,NA,44,3.491,0.881,7.303,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,2,1,980756,,4.73,NA,45,3.773,1.008,6.937,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,2,2,956064,,4.83,NA,45,3.924,1.433,7.131,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,2,3,1018216,,2.23,NA,45,3.148,0.963,6.772,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,3,1,946608,,4.89,NA,49,3.986,1.293,6.324,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,3,2,933868,,3.42,NA,49,3.634,1.733,6.714,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Chuquiraga_erinaceae,3,3,816308,,5.19,NA,49,3.756,1.58,6.417,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Barnadesieae,setose
+Stevia_sp2,1,1,4864232,,0.43,NA,73,4.376,0.657,5.969,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,1,2,4764104,,0.36,NA,73,4.553,0.643,5.991,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,1,3,3409848,,0.57,NA,73,4.663,0.703,5.217,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,2,1,4251384,,0.34,NA,74,4.67,0.677,6.49,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,2,2,4100712,,0.3,NA,74,4.8,0.606,6.143,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,2,3,3812896,,0.3,NA,74,4.618,0.714,6.08,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,3,1,3156680,,0.32,NA,75,4.064,0.598,5.836,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,3,2,3998216,,0.28,NA,75,4.504,0.561,5.587,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Stevia_sp2,3,3,3605164,,0.43,NA,75,4.442,0.604,5.262,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Eupatorieae,setose
+Senecio_octolepis,1,1,3206248,,0.96,NA,58,2.931,0.735,5.836,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,1,2,4226632,,0.99,NA,58,3.196,0.777,4.845,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,1,3,3851076,,0.89,NA,58,3.3,0.679,5.765,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,2,1,3082040,,1.26,NA,60,3.566,0.785,5.139,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,2,2,2980192,,1.14,NA,60,3.489,0.731,5.05,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,2,3,3315732,,1.23,NA,60,3.415,0.769,5.268,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,3,1,3743556,,0.89,NA,61,3.147,0.66,5.436,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,3,2,4062404,,0.92,NA,61,3.046,0.565,5.667,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Senecio_octolepis,3,3,3499948,,0.91,NA,61,3.311,0.588,4.762,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Senecioneae,setose
+Chuquiraga_oppositifolia,1,1,2467976,,3.3,NA,139,4.658,0.864,9.927,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chuquiraga_oppositifolia,1,2,2416924,,3.74,NA,139,5.644,0.958,11.357,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chuquiraga_oppositifolia,1,3,2272708,,3.07,NA,139,5.151,0.975,11.141,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chuquiraga_oppositifolia,2,1,1911044,,4.64,NA,140,6.538,1.192,9.942,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chuquiraga_oppositifolia,2,2,2065096,,4.36,NA,140,5.64,1.032,8.886,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chuquiraga_oppositifolia,2,3,1921868,,4.35,NA,140,6.032,1.174,9.732,-25.178178,-65.816128,2658.987,Central_Andean_puna,arbusto,Pie de Cuesta,norte_2022,Barnadesieae,setose
+Chaptalia_similis,1,1,4294272,,1.47,NA,143,6.937,1.158,8.153,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Chaptalia_similis,1,2,3956996,,1.44,NA,143,6.862,0.954,7.994,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Chaptalia_similis,1,3,3999960,,1.64,NA,143,6.754,0.837,7.6,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Chaptalia_similis,2,1,3981468,,1.34,NA,144,7.727,1.013,8.194,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Chaptalia_similis,2,2,3941260,,1.73,NA,144,6.53,1.177,8.719,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Chaptalia_similis,2,3,3860644,,1.76,NA,144,7.442,0.926,8.296,-25.166542,-65.849998,2953.698,Central_Andean_puna,hierba,Mirador de la virgen,norte_2022,Mutisieae,setose
+Porophyllum_cabrerae,1,1,1192524,,0.85,NA,116,8.242,0.437,6.073,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,1,2,1929704,,0.63,NA,116,8.282,0.559,6.589,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,1,3,2963340,,0.53,NA,116,8.566,0.499,6.849,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,2,1,1322512,,0.85,NA,117,8.295,0.445,5.856,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,2,2,1684604,,0.88,NA,117,8.451,0.444,6.098,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,2,3,1393160,,0.86,NA,117,8.262,0.527,6.303,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,3,1,1969748,,0.83,NA,118,8.733,0.461,6.998,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,3,2,1994232,,1.07,NA,118,9.616,0.595,7.123,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Porophyllum_cabrerae,3,3,1970300,,1.16,NA,118,9.415,0.49,6.979,-25.154938,-65.991319,2935.081,Monte,hierba,Recta del Tin-Tin,norte_2022,Tageteae,setose
+Gochnatia_glutinosa,1,1,1720336,,3.96,NA,135,4.246,1.278,7.838,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,1,2,2575932,,2.06,NA,135,4.165,0.877,7.928,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,1,3,1651044,,4.83,NA,135,4.521,1.463,8.161,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,2,1,2873796,,1.65,NA,136,4.195,1.147,7.024,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,2,2,1665420,,3.04,NA,136,4.52,1.564,6.89,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,2,3,1587292,,2.82,NA,136,4.546,1.26,7.17,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,3,1,2899568,,2.66,NA,138,4.966,1.266,7.31,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,3,2,1592472,,5.42,NA,138,5.126,1.545,7.997,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Gochnatia_glutinosa,3,3,2586300,,2.11,NA,138,5.353,1.352,7.868,-24.70857,-66.188002,3075.899,Monte,arbusto,La Poma,norte_2022,Gochnatieae,setose
+Senecio_fiesii,1,1,3877856,,1.67,NA,141,4.555,0.888,9.389,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Senecioneae,setose
+Senecio_fiesii,1,2,4182252,,1.74,NA,141,4.089,0.788,9.794,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Senecioneae,setose
+Senecio_fiesii,1,3,3170800,,2.2,NA,141,4.358,0.885,8.437,-25.234324,-65.919181,3148.578,Monte,hierba,PN Los Cardones,norte_2022,Senecioneae,setose
+Trichochline_reptans,1,1,3499368,,1.29,NA,142,1.954,0.819,10.338,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Mutisieae,setose
+Trichochline_reptans,1,2,4074924,,1.55,NA,142,1.982,0.804,10.471,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Mutisieae,setose
+Trichochline_reptans,1,3,3415860,,1.68,NA,142,2.044,0.935,10.832,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Mutisieae,setose
+Baccharis_tucumanensis,1,1,9957332,,0.06,NA,119,0.961,0.283,3.925,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,1,2,10800300,,0.06,NA,120,1.014,0.298,4.192,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,1,3,9479464,,0.06,NA,121,1.145,0.301,4.099,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,2,1,10384220,,0.09,NA,122,1.193,0.271,3.989,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,2,2,8977540,,0.09,NA,123,1.022,0.354,4.255,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,2,3,12005468,,0.09,NA,124,1.09,0.222,4.498,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,3,1,9798400,,0.05,NA,125,1.017,0.319,3.431,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,3,2,9076880,,0.05,NA,126,1.005,0.238,3.541,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Baccharis_tucumanensis,3,3,18263148,,0.05,NA,127,1.047,0.253,4.056,-22.246,-65.05,3044,Central_Andean_puna,arbusto,antes de Rodeo Pampa,norte_2020,Astereae,setose
+Porophyllum_ruderale,1,1,4140716,,0.97,NA,128,9.39,0.524,9.448,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,1,2,6369140,,0.54,NA,128,9.474,0.52,9.576,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,1,3,5408916,,0.69,NA,128,9.35,0.347,9.227,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,2,1,3974540,,0.87,NA,129,8.772,0.297,7.947,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,2,2,4023004,,1.04,NA,129,9.438,0.53,9.363,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,2,3,5148296,,0.69,NA,129,9.678,0.421,8.456,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,3,1,4946848,,0.97,NA,130,8.203,0.535,8.79456501403181,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,3,2,4528140,,0.82,NA,130,8.294,0.295,8.17,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Porophyllum_ruderale,3,3,4786948,,0.86,NA,130,8.349,0.473,7.95,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Tageteae,setose
+Chromolaena_ivifolia,1,1,7485500,,0.27,NA,131,1.387,0.393,3.272,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,1,2,7237648,,0.15,NA,131,1.273,0.49,3.252,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,1,3,7516780,,0.18,NA,131,1.391,0.438,3.174,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,2,1,6044964,,0.19,NA,133,1.905,0.453,3.654,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,2,2,7136992,,0.11,NA,133,1.427,0.484,3.129,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,2,3,6951764,,0.14,NA,133,1.896,0.408,3.441,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,3,1,7352248,,0.18,NA,134,1.46,0.425,3.598,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,3,2,9293740,,0.16,NA,134,1.625,0.524,3.564,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Chromolaena_ivifolia,3,3,6163644,,0.12,NA,134,1.519,0.505,3.358,-25.126074,-65.586443,1479.384842,Southern_Andean_Yungas,arbusto,Chicoana,norte_2022,Eupatorieae,setose
+Mutisia_kuntzii,1,1,2551056,,11.36,NA,145,19.108,1.463,12.286,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Mutisia_kuntzii,1,2,1791368,,21.85,NA,145,20.226,1.999,13.01,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Mutisia_kuntzii,1,3,2776184,,7.36,NA,145,18.911,1.396,12.392,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Mutisia_kuntzii,2,1,2199120,,17.3,NA,146,17.654,1.462,12.71,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Mutisia_kuntzii,2,2,1950980,,20.63,NA,146,18.063,1.823,12.46,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Mutisia_kuntzii,3,1,2016884,,24,NA,148,15.942,2.165,15.166,-25.166542,-65.849998,2953.698,Central_Andean_puna,arbusto,Mirador de la virgen,norte_2022,Mutisieae,setose
+Austrobrickellia_patens,1,1,3348912,,0.84,NA,108,3.846,0.827,6.617,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,1,2,3501484,,0.57,NA,108,3.414,0.687,6.126,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,1,3,3794916,,0.68,NA,108,3.51,0.805,6.421,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,2,1,4331692,,0.6,NA,110,2.932,0.686,6.669,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,2,2,4237684,,0.59,NA,110,3.074,0.854,7.49,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,2,3,4307968,,0.57,NA,110,2.995,0.781,6.685,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,3,1,2368116,,0.99,NA,111,3.89,0.798,6.377,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,3,2,2938520,,0.99,NA,111,3.753,0.875,6.55,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Austrobrickellia_patens,3,3,4080464,,0.57,NA,111,3.765,0.841,6.571,-24.915399,-66.14204,2606.965,Monte,arbusto,Camino a poma,norte_2022,Eupatorieae,setose
+Schkuria_pinnata,1,1,1001916,,1.09,NA,112,3.823,0.657,2.403,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,1,2,1129112,,0.9,NA,112,3.811,0.922,2.234,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,1,3,968740,,0.89,NA,112,3.799,0.902,2.123,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,2,1,1021008,,1.1,NA,113,3.922,0.876,2.361,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,2,2,993268,,1.14,NA,113,3.913,0.972,2.547,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,2,3,990804,,0.95,NA,113,3.562,0.692,2.152,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,3,1,956720,,1.02,NA,114,3.616,0.641,2.307,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,3,2,809040,,1,NA,114,3.841,0.787,2.03,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Schkuria_pinnata,3,3,870932,,0.98,NA,114,3.912,0.947,2.046,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Bahieae,paleaceous
+Smallanthus_connatus,1,1,873436,,2.64,NA,161,5.389,2.185,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,1,2,768948,,3.81,NA,161,4.338,3.692,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,1,3,948308,,2.32,NA,161,4.956,2.626,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,2,1,638672,,19.35,NA,163,5.922,3.727,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,2,2,654392,,18.56,NA,163,6.056,3.678,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,2,3,738748,,20.1,NA,163,6.563,3.656,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,3,1,755428,,4.02,NA,164,4.757,2.994,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,3,2,787712,,3.82,NA,164,4.252,3.366,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Smallanthus_connatus,3,3,658036,,9.32,NA,164,4.5,3.76,0,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Millerieae,epappose
+Grindelia_pulchella,1,1,897008,,2.75,NA,156,6.154,2.022,0,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,1,2,1025636,,3.1,NA,156,6.056,2.236,2.325,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,1,3,1237812,,2.77,NA,156,6.125,2.326,2.163,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,2,1,884380,,3.54,NA,158,7.182,2.295,2.664,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,2,2,1131640,,3.29,NA,158,6.682,2.325,2.171,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,2,3,1043972,,3.59,NA,158,7.029,2.102,2.341,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,3,1,1113168,,3.44,NA,160,6.539,2.213,2.525,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,3,2,1920436,,0.86,NA,160,6.576,1.839,1.811,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Grindelia_pulchella,3,3,1180488,,3.54,NA,160,6.467,2.174,2.53,-24.70857,-66.188002,3075.899,Monte,hierba,La Poma,norte_2022,Astereae,aristate
+Acanthospermum_hispidum,1,1,601136,,9.17,NA,168,5.154,2.51,3.654,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,1,2,609500,,9.84,NA,168,4.497,2.509,3.045,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,1,3,615740,,9.94,NA,168,4.841,2.283,3.983,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,2,1,636204,,9.54,NA,169,5.169,2.685,4.049,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,2,2,665436,,8.49,NA,169,4.587,2.462,3.679,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,2,3,639284,,8.75,NA,169,4.787,2.604,3.867,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,3,1,597148,,10.69,NA,170,5.208,2.57,4.038,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,3,2,614164,,10.3,NA,170,5.079,2.706,3.83,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Acanthospermum_hispidum,3,3,608792,,10.49,NA,170,5.131,2.718,4.161,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Millerieae,aristate
+Verbesina_encelioides,1,1,1293900,,3.8,NA,149,6.711,2.265,1.632,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,1,2,1294348,,3.48,NA,149,6.43,2.425,1.543,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,1,3,1292712,,3.93,NA,149,6.775,2.08,1.856,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,2,1,1102804,,4.25,NA,150,5.784,2.602,0.903,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,2,2,1108556,,4.44,NA,150,5.713,2.801,0,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,2,3,1087260,,4.12,NA,150,5.547,3.167,0.719,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,3,1,1072644,,5.03,NA,151,6.562,2.466,2.571,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,3,2,1228456,,4.69,NA,151,6.583,2.388,2.286,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Verbesina_encelioides,3,3,1229964,,4.68,NA,151,6.681,2.451,2.269,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,1,1,776064,,5.82,NA,165,6.308,2.747,2.841,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,1,2,884948,,5.88,NA,165,5.928,2.548,2.972,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,1,3,806648,,5.1,NA,165,5.873,2.5,2.918,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,2,1,896056,,5.76,NA,166,5.74,2.78,3.651,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,2,2,931932,,5.36,NA,166,6.25,3.152,3.874,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,2,3,933920,,4.55,NA,166,5.469,2.83,3.95,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,3,1,1292424,,3.04,NA,167,5.862,2.529,3.816,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,3,2,1086480,,3.5,NA,167,5.535,2.526,3.634,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Flourensia_oolepis,3,3,864876,,7.69,NA,167,6.467,3.023,3.621,-25.275374,-65.333683,990.536,Dry_Chaco,arbusto,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Tagetes_campanulata,1,1,1060692,,0.54,NA,152,7.895,0.674,5.533,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,1,2,1014568,,0.79,NA,152,7.648,0.673,5.166,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,1,3,1164420,,0.53,NA,152,7.635,0.579,5.279,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,2,1,990512,,0.67,NA,153,8.668,0.84,5.641,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,2,2,1151784,,1.25,NA,153,9.369,0.84,5.392,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,2,3,856520,,1.32,NA,153,8.482,0.78,5.578,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,3,1,893308,,0.89,NA,154,7.863,0.953,5.724,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,3,2,1010396,,1.92,NA,154,7.942,1.181,5.313,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Tagetes_campanulata,3,3,948304,,0.87,NA,154,7.654,0.934,5.465,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Tageteae,paleaceous
+Solidago_chilensis,1,1,6521924,,0.18,NA,171,1.504,0.383,3.392,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,1,2,7429328,,0.14,NA,171,1.32,0.353,3.687,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,1,3,6889336,,0.08,NA,171,1.455,0.241,3.149,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,2,1,7440848,,0.08,NA,173,1.423,0.319,2.82,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,2,2,7159980,,0.05,NA,173,1.445,0.2,2.758,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,2,3,7052432,,0.13,NA,173,1.794,0.29,3.23,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,3,1,10196236,,0.13,NA,174,1.314,0.314,3.61,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,3,2,8098980,,0.11,NA,174,1.399,0.337,3.611,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Solidago_chilensis,3,3,9712760,,0.09,NA,174,1.22,0.187,3.714,-27.702,-65.915,1796,Southern_Andean_Yungas,hierba,Rio singuil,norte_2020,Astereae,setose
+Picradeniopsis_multiflora,1,1,1411168,,0.41,NA,175,3.492,0.554,1.991,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,1,2,1506276,,0.39,NA,175,3.207,0.649,1.635,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,1,3,1505816,,0.38,NA,175,3.136,0.555,1.741,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,2,1,1217880,,0.38,NA,176,3.737,0.463,1.532,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,2,2,1811548,,0.36,NA,176,3.413,0.555,2.067,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,2,3,1392124,,0.22,NA,176,3.055,0.44,1.421,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,3,1,1737320,,0.5,NA,177,3.532,0.685,2.28,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,3,2,1768736,,0.49,NA,177,3.315,0.571,2.125,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Picradeniopsis_multiflora,3,3,1723120,,0.33,NA,177,3.244,0.508,2.113,-24.365466,-66.091174,3722.081,Central_Andean_puna,hierba,Las Cuevas,norte_2022,Bahieae,paleaceous
+Cnicothamnus_lorentzii,1,1,1965020,,7.31,NA,191,7.51,1.176,20.855,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Cnicothamnus_lorentzii,1,2,2021496,,6.67,NA,191,7.509,1.076,20.983,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Cnicothamnus_lorentzii,1,3,1383028,,7.78,NA,191,8.089,0.974,20.419,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Cnicothamnus_lorentzii,2,1,2835152,,6.36,NA,192,7.661,0.907,20.9,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Cnicothamnus_lorentzii,2,2,2205092,,6.75,NA,192,7.933,0.975,20.807,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Cnicothamnus_lorentzii,2,3,1982536,,7.27,NA,192,7.972,0.806,21.197,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Gochnatieae,setose
+Flourensia_riparia,1,1,1374804,,2.83,NA,187,7.22,3.015,4.222,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,1,2,1186740,,4,NA,187,6.938,2.67,4.585,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,1,3,1293140,,3.14,NA,187,6.799,2.596,4.091,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,2,1,778268,,6.03,NA,188,5.931,2.79,4.105,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,2,2,758272,,5.78,NA,188,5.325,2.652,4.215,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,2,3,1151724,,3.43,NA,188,6.178,3.033,4.297,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,3,1,778232,,8.16,NA,189,7.352,3.373,3.512,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,3,2,678380,,8.58,NA,189,6.737,2.955,3.651,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Flourensia_riparia,3,3,708684,,7.26,NA,189,6.863,3.075,4.155,-25.185098,-65.780477,2192.787,Central_Andean_puna,arbusto,Maray,norte_2022,Heliantheae,aristate
+Mutisia_ledifolia,1,1,2396468,,2.84,NA,190,4.173,1.424,12.998,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Mutisieae,setose
+Mutisia_ledifolia,1,2,2157564,,3.73,NA,190,4.758,1.48,12.868,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Mutisieae,setose
+Mutisia_ledifolia,1,3,2621076,,3.63,NA,190,4.241,1.252,11.931,-25.178178,-65.816128,2658.987,Central_Andean_puna,hierba,Pie de Cuesta,norte_2022,Mutisieae,setose
+Chaptalia_3,1,1,5297088,,1.38,NA,197,5.063,1.105,10.012,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,1,2,5008792,,1.42,NA,197,4.631,0.828,9.4,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,1,3,5351200,,1.47,NA,197,5.269,0.792,8.619,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,2,1,3892420,,1.33,NA,198,5.508,1.017,8.952,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,2,2,4372632,,1.27,NA,198,4.688,0.97,8.841,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,2,3,6165672,,1.17,NA,198,5.916,1.109,9.605,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,3,1,4486808,,1.72,NA,199,5.841,1.17,9.736,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,3,2,4520268,,1.57,NA,199,5.185,1.043,9.814,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia_3,3,3,4743016,,1.56,NA,199,5.239,0.916,9.082,-25.174863,-65.854139,3260,Central_Andean_puna,hierba,Punta Cochera,norte_2022,Mutisieae,setose
+Chaptalia,1,1,11823028,,0.32,NA,200,4.07,0.664,9.797,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,1,2,7516420,,0.54,NA,200,4.22,0.84,11.463,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,1,3,6841716,,0.29,NA,200,4.176,0.768,11.164,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,2,1,5536600,,0.62,NA,201,4.342,0.658,9.527,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,2,2,4927560,,0.63,NA,201,4.211,0.733,9.316,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,2,3,4272560,,0.64,NA,201,4.264,0.777,9.396,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,3,1,3606996,,0.47,NA,202,3.384,0.635,6.613,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,3,2,3101968,,0.62,NA,202,4.013,0.655,8.409,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Chaptalia,3,3,4511556,,0.33,NA,202,4.431,0.818,7.74,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Mutisieae,setose
+Dimerostemma_aspilioides,1,1,1048124,,2.15,NA,179,3.648,1.576,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,1,2,1039756,,2.09,NA,179,3.709,1.547,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,1,3,1088436,,1.99,NA,179,3.597,1.396,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,2,1,877112,,2.74,NA,181,4.106,1.321,0.924,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,2,2,935168,,2.81,NA,181,4.215,1.574,1.021,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,2,3,1020200,,1.61,NA,181,3.769,1.477,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,3,1,1083788,,2.48,NA,182,3.825,1.593,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,3,2,1254816,,1.98,NA,182,4.128,1.089,1.322,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Dimerostemma_aspilioides,3,3,1055220,,2.22,NA,182,3.542,1.202,NA,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,1,1,1118536,,1.3,NA,184,4.104,1.222,0.698,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,1,2,1126640,,0.79,NA,184,4.008,0.995,0.939,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,1,3,1065868,,0.92,NA,184,4.104,0.939,1.496,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,2,1,963628,,1.1,NA,185,3.956,1.18,0.938,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,2,2,931068,,1.17,NA,185,3.818,1.178,0.653,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,2,3,890788,,1.23,NA,185,3.955,1.223,1.144,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,3,1,863716,,1.3,NA,186,3.741,1.237,0.603,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,3,2,910444,,1.26,NA,186,4.051,1.226,0.74,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Sanvitalia_sp,3,3,904576,,0.98,NA,186,3.631,0.948,NA,-25.124293,-65.041981,748,Dry_Chaco,hierba,Juramento,norte_2022,Heliantheae,aristate
+Chromolaena_hookeriana,1,1,8234456,,0.17,NA,196,2.026,0.443,3.77,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Chromolaena_hookeriana,1,2,7364588,,0.08,NA,196,2.344,0.399,3.779,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Chromolaena_hookeriana,1,3,7371336,,0.08,NA,196,2.167,0.446,3.623,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,arbusto,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Tagetes_filifolia,1,1,2237084,,0.34,NA,203,5.882,0.367,2.115,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Tagetes_filifolia,1,2,2184612,,0.38,NA,203,5.406,0.589,3.263,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Tagetes_filifolia,1,3,1421608,,0.35,NA,203,5.484,0.528,3.803,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Tagetes_filifolia,2,1,1303196,,0.55,NA,204,5.375,0.549,4.308,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Tagetes_filifolia,2,2,1008004,,0.6,NA,204,5.568,0.536,4.552,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Tagetes_filifolia,2,3,1264204,,0.52,NA,204,5.521,0.478,4.333,-25.185098,-65.780477,2192.787,Central_Andean_puna,hierba,Maray,norte_2022,Tageteae,paleaceous
+Heliantheae_monte,1,1,994812,,7.85,NA,216,7.931,2.973,4.7,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,1,2,1066848,,6.06,NA,216,7.975,2.498,4.091,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,1,3,1215356,,4.97,NA,216,8.396,2.836,5.319,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,2,1,845760,,11.38,NA,217,7.759,3.218,4.718,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,2,2,899824,,9.69,NA,217,8.12,3.094,4.675,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,2,3,927572,,11.26,NA,217,8.014,3.352,4.564,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,3,1,968864,,8.57,NA,219,8.64,2.687,3.489,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,3,2,921780,,8.94,NA,219,9.159,2.81,3.68,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Heliantheae_monte,3,3,812880,,10.6,NA,219,7.561,3.196,3.26,-25.154938,-65.991319,2935.081,Monte,arbusto,Recta del Tin-Tin,norte_2022,Heliantheae,aristate
+Stevia_satureiifolia,1,1,2600216,,0.62,NA,205,4.768,0.537,6.439,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,1,2,2828764,,0.64,NA,205,4.948,0.572,6.49,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,1,3,2235888,,0.68,NA,205,3.774,0.643,5.81,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,2,1,3996772,,0.28,NA,207,4,0.506,5.997,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,2,2,2826476,,0.35,NA,207,3.47,0.577,6.341,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,2,3,2294756,,0.52,NA,207,4.197,0.552,6.129,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,3,1,3230748,,0.51,NA,208,3.601,0.618,6.26,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,3,2,3835860,,0.42,NA,208,4.113,0.516,5.514,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Stevia_satureiifolia,3,3,2859120,,0.44,NA,208,3.315,0.634,6.91,-30.319529,-63.925994,464.821,Dry_Chaco,hierba,Pisco Huasi,norte_2022,Eupatorieae,paleaceous
+Hysterionica_jasionoides,1,1,4955052,,0.11,NA,209,1.55,0.534,3.346,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,1,2,3290516,,0.14,NA,210,1.402,0.53,3.025,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,1,3,3326804,,0.11,NA,211,1.351,0.611,2.889,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,2,1,4240096,,0.16,NA,212,1.546,0.567,3.078,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,2,2,3676332,,0.23,NA,213,1.679,0.722,3.277,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,2,3,4935280,,0.11,NA,214,1.547,0.594,3.13,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,3,1,4980072,,0.15,NA,215,1.568,0.61,3.298,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,3,2,4288868,,0.16,NA,215,1.717,0.687,3.276,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Hysterionica_jasionoides,3,3,4184848,,0.19,NA,215,1.723,0.568,2.954,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Astereae,setose
+Baccharis_salicifolia,1,1,9802616,,0.04,NA,232,0.808,0.197,3.273,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,1,2,10619504,,0.04,NA,233,0.872,0.249,3.046,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,1,3,11114652,,0.04,NA,234,0.752,0.277,3.467,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,2,1,13946264,,0.06,NA,235,0.843,0.231,3.001,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,2,2,9048152,,0.06,NA,236,0.877,0.252,3.349,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,2,3,13035688,,0.06,NA,237,0.716,0.217,3.144,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,3,1,12678412,,0.06,NA,238,0.702,0.23,3.558,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,3,2,17866524,,0.06,NA,239,0.783,0.243,3.897,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Baccharis_salicifolia,3,3,16086596,,0.06,NA,NA,NA,NA,NA,-30.319529,-63.925994,464.821,Dry_Chaco,arbusto,Pisco Huasi,norte_2022,Astereae,setose
+Fleischmannia_schickendantzii,1,1,5406344,,0.4,NA,229,3,0.582,5.586,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,1,2,4490404,,0.51,NA,229,3.374,0.701,5.434,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,1,3,7819852,,0.3,NA,229,3.368,0.614,5.57,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,2,1,5893284,,0.23,NA,230,3.227,0.504,4.52,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,2,2,5267524,,0.3,NA,230,3.522,0.447,4.567,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,2,3,4820312,,0.31,NA,230,2.777,0.674,4.2,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,3,1,3554044,,0.32,NA,231,4.311,0.704,4.545,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,3,2,7120860,,0.21,NA,231,2.782,0.513,4.377,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Fleischmannia_schickendantzii,3,3,6257488,,0.38,NA,231,4.256,0.562,4.305,-25.116442,-65.602071,1452.464,Southern_Andean_Yungas,hierba,Quebrada Escoipe,norte_2022,Eupatorieae,setose
+Trichocline_sp,1,1,4820256,,1.04,NA,221,1.938,1.032,8.743,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Mutisieae,setose
+Trichocline_sp,1,2,5675024,,1.1,NA,222,2.293,0.86,9.029,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Mutisieae,setose
+Trichocline_sp,1,3,5729624,,1.21,NA,224,1.976,1.119,9.26,-25.197444,-65.842164,3089,Central_Andean_puna,hierba,Valle Encantado,norte_2022,Mutisieae,setose
+Tridax_procumbens,1,1,4552272,,0.61,NA,225,2.057,0.398,4.649,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,1,2,3480688,,0.7,NA,225,1.939,0.638,4.413,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,1,3,4174448,,0.47,NA,225,1.935,0.423,4.186,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,2,1,3810752,,0.6,NA,226,2.018,0.811,4.689,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,2,2,3858396,,0.58,NA,226,1.928,0.753,4.922,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,2,3,3638892,,0.54,NA,226,1.938,0.647,4.865,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,3,1,3785864,,0.79,NA,228,1.891,0.501,5.228,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,3,2,3792324,,0.68,NA,228,1.891,0.582,5.729,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Tridax_procumbens,3,3,3862848,,0.71,NA,228,2.117,0.72,5.215,-25.275374,-65.333683,990.536,Dry_Chaco,hierba,Dique Cabra Corral,norte_2022,Millerieae,setose
+Burkartia_lanigera,1,1,2871496,,0.49,NA,246,1.152,0.398,4.792,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,1,2,3585780,,0.42,NA,246,2.088,0.799,4.591,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,1,3,3822784,se perdio,NA,NA,NA,NA,NA,NA,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,2,1,3783860,,0.27,NA,247,1.587,0.587,4.663,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,2,2,3563404,,0.38,NA,247,1.593,0.588,5.391,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,2,3,3469844,,0.32,NA,247,1.518,0.735,4.997,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,3,1,3184276,,0.84,NA,248,2.249,0.712,5.473,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,3,2,3552688,,0.85,NA,248,1.925,0.778,5.136,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Burkartia_lanigera,3,3,2893744,,0.98,NA,248,2.974,0.776,5.791,-50.286573,-69.29533,357,Patagonian_steppe,cojin,RP9_2,Sur_2021,Nassauvieae,setose
+Brachyclados_caespitosus,1,1,3374864,,1.06,NA,249,1.992,0.668,9.802,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,1,2,3346196,,1.07,NA,249,1.88,0.757,10.444,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,1,3,4018904,,0.93,NA,249,2.084,0.684,9.71,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,2,1,2732916,,1.76,NA,250,2.105,0.862,9.297,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,2,2,2418148,,1.67,NA,250,2.303,1.215,9.522,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,2,3,2371716,,NA,NA,250,2.139,0.887,8.832,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,3,1,2363912,,1.52,NA,251,2.203,1.12,9.271,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,3,2,2599784,,1.03,NA,251,1.715,0.881,9.194,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Brachyclados_caespitosus,3,3,2400720,,1.28,NA,251,2.218,0.956,10.595,-50.306795,-70.238514,384,Patagonian_steppe,cojin,RP9,Sur_2021,Mutisieae,setose
+Chuquiraga_aurea,1,1,1917760,,3.79,NA,240,4.174,1.428,9.842,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,1,2,1963944,,3.81,NA,240,5.159,1.598,8.558,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,1,3,1880672,,3.77,NA,240,4.52,1.552,9.84,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,2,1,1338948,inmaduro,4.62,NA,242,4.992,1.315,9.321,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,2,2,1328316,inmaduro,5.5,NA,242,4.881,1.142,9.749,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,2,3,1008620,inmaduro,5.68,NA,242,4.223,1.424,9.545,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,3,1,1397552,,4.26,NA,243,4.8,4.29,4.443,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,3,2,1223444,,4.35,NA,243,1.045,1.57,1.393,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Chuquiraga_aurea,3,3,1162464,,4.68,NA,243,9.056,9.178,9.471,-48.956429,-67.647875,122,Patagonian_steppe,cojin,San julian,Sur_2021,Barnadesieae,setose
+Senecio_arnottii,1,1,2739640,,0.66,NA,264,3.674,0.563,6.492,-50.491174,-73.048641,186,Patagonian_forests,cojin,Domo,Sur_2021,Senecioneae,setose
+Senecio_arnottii,2,1,2566896,,0.77,NA,265,3.255,0.432,5.75,-50.491174,-73.048641,186,Patagonian_forests,cojin,Domo,Sur_2021,Senecioneae,setose
+Senecio_arnottii,2,2,3220952,,0.37,NA,265,3.538,0.396,6.122,-50.491174,-73.048641,186,Patagonian_forests,cojin,Domo,Sur_2021,Senecioneae,setose
+Senecio_arnottii,2,3,3261816,,0.38,NA,265,4.235,0.614,5.64,-50.491174,-73.048641,186,Patagonian_forests,cojin,Domo,Sur_2021,Senecioneae,setose
+Senecio_argyreus,1,1,4946772,,0.73,NA,268,4.658,0.826,8.864,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_argyreus,1,2,3666636,,0.99,NA,268,5.875,0.478,8.897,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_argyreus,1,3,4871692,,0.72,NA,268,5.069,0.598,9.777,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_argyreus,2,1,3279124,,2.15,NA,269,5.55,0.979,8.946,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_argyreus,2,2,2844288,,2.28,NA,269,4.923,1.031,8.44,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_argyreus,2,3,3390756,,2.07,NA,269,4.714,0.926,8.957,-50.489735,-73.044682,193,Patagonian_forests,arbusto,Tehuelche,Sur_2021,Senecioneae,setose
+Senecio_miser,1,1,5304624,,0.55,NA,254,2.951,0.476,5.899,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,1,2,4501892,,0.62,NA,254,2.888,0.548,5.669,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,1,3,5333852,,0.5,NA,254,3.09,0.655,6.019,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,2,1,4880984,,0.496666666666667,NA,256,3.137,0.576,5.989,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,2,2,5486712,,0.496666666666667,NA,256,3.436,0.626,5.877,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,2,3,4756960,,0.496666666666667,NA,257,3.247,0.592,5.93,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,3,1,2030900,,0.49,NA,259,3.583,0.632,5.626,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,3,2,2165420,,0.83,NA,259,3.62,0.656,6.368,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Senecio_miser,3,3,2828456,,0.87,NA,259,3.603,0.624,6.089,-48.383308,-70.663856,466,Patagonian_steppe,cojin,RN40,Sur_2021,Senecioneae,setose
+Baccharis_magellanica,1,1,8883996,,0.303333333333333,NA,266,1.266,0.344,8.667,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Baccharis_magellanica,1,2,8052448,,0.303333333333333,NA,266,1.579,0.398,8.702,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Baccharis_magellanica,1,3,12431728,,0.303333333333333,NA,266,1.127,0.292,10.117,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Baccharis_magellanica,2,1,11461732,,0.243333333333333,NA,267,1.567,0.51,10.208,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Baccharis_magellanica,2,2,8058712,,0.243333333333333,NA,267,1.399,0.34,10.042,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Baccharis_magellanica,2,3,10150968,,0.243333333333333,NA,267,1.54,0.392,10.286,-50.487677,-72.929317,214,Patagonian_forests,cojin,Baccharis _placa,Sur_2021,Astereae,setose
+Hyalis_argentea,1,1,2802436,,5.93,NA,261,3.613,1.296,13.113,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,1,2,2718908,,5.88,NA,261,3.868,1.631,12.892,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,1,3,2661436,,6.38,NA,261,3.619,1.523,12.602,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,2,1,2308352,,4.98,NA,262,4.177,1.554,13.133,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,2,2,2701496,,6.17,NA,262,4.085,1.66,12.369,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,2,3,3445716,,5.58,NA,262,3.862,0.968,11.884,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,3,1,2982524,,6.83,NA,263,3.525,1.144,12.465,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,3,2,2264216,,5.66,NA,263,3.557,1.166,12.98,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Hyalis_argentea,3,3,2874180,,4.59,NA,263,4.522,1.649,13.106,-38.339651,-64.071738,73,Monte,arbusto,Hyalis,Sur_2021,Hyalideae,setose
+Nardophyllum_bryoides,1,1,3035792,,1.06,NA,271,5.809,0.66,5.749,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,1,2,2901692,,0.78,NA,271,5.078,0.713,6.125,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,1,3,2848816,,1.03,NA,271,5.148,0.644,5.795,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,2,1,2328512,,0.92,NA,272,5.322,0.71,6.038,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,2,2,2989052,,0.67,NA,272,4.296,0.623,5.252,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,2,3,2053200,,1.06,NA,272,4.956,0.685,5.478,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,3,1,3069960,,1.07,NA,273,4.699,0.677,6.294,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,3,2,3013720,,0.81,NA,273,4.968,0.822,5.991,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Nardophyllum_bryoides,3,3,2152656,,0.65,NA,273,5.434,0.568,5.727,-48.383308,-70.663856,466,Patagonian_steppe,arbusto,RN40,Sur_2021,Astereae,setose
+Cyclolepis_genistoides,1,1,4906528,,0.74,NA,274,3.163,0.497,9.118,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,1,2,3598128,,1.34,NA,274,2.85,0.622,9.847,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,1,3,4444260,,1.15,NA,274,2.855,0.556,8.934,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,2,1,4187068,,1.18,NA,275,2.964,0.592,9.278,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,2,2,4767572,,1.22,NA,275,3.122,0.957,9.614,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,2,3,3853864,,2,NA,275,3.015,0.698,8.944,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,3,1,2687264,,1,NA,276,2.548,0.702,9.288,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,3,2,3108372,,1.17,NA,276,2.708,0.624,9.41,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Cyclolepis_genistoides,3,3,3190220,,1.07,NA,276,2.833,0.571,9.302,-38.140013,-66.197174,257,Monte,arbusto,cyclolepis,Sur_2021,Gochnatieae,setose
+Baccharis_patagonica,1,1,12256392,,0.1,NA,NA,NA,NA,NA,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,1,2,14536824,,0.1,NA,277,1.385,0.304,6.318,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,1,3,13274696,,0.1,NA,277,1.044,0.241,6.637,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,2,1,13646556,,0.17,NA,278,1.537,0.465,7.678,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,2,2,12454172,,0.17,NA,278,1.503,0.408,7.645,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,2,3,12395028,,0.17,NA,NA,NA,NA,NA,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,3,1,10749948,,0.23,NA,279,1.979,0.464,8.794,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,3,2,9952496,,0.23,NA,279,2.111,0.446,8.264,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Baccharis_patagonica,3,3,16364616,,0.23,NA,280,1.333,0.439,7.257,-40.616062,-71.670945,792,Patagonian_forests,arbusto,Baccharis_2,Sur_2021,Astereae,setose
+Gutierrezia_gilliesii,1,1,1238528,,1.15,NA,281,2.891,0.816,2.005,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,1,2,914168,,1.09,NA,281,2.691,0.843,1.917,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,1,3,1143004,,1.17,NA,281,2.406,0.514,2.818,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,2,1,1289424,,1.15,NA,282,1.451,0.399,1.222,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,2,2,1201640,,1.02,NA,282,1.286,0.315,1.419,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,2,3,1342028,,1.05,NA,282,1.282,0.341,1.475,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,3,1,1360464,,0.57,NA,283,2.235,0.677,1.43,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,3,2,1500432,,0.61,NA,283,2.246,0.673,1.865,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Gutierrezia_gilliesii,3,3,1183012,,0.73,NA,283,1.777,0.661,1.501,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,paleaceous
+Senecio_filaginoides,1,1,4773024,,0.53,NA,284,3.266,0.435,7.653,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,1,2,4774640,,0.51,NA,284,3.235,0.591,6.763,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,1,3,5428024,,0.49,NA,284,3.415,0.594,6.323,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,2,1,2416364,,0.8,NA,285,3.475,0.58,7.514,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,2,2,2095672,,0.58,NA,285,3.442,0.561,7.304,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,2,3,2163516,,0.74,NA,285,3.538,0.51,7.197,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,3,1,3404172,,0.84,NA,286,3.655,0.651,7.537,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,3,2,3539152,,0.67,NA,286,3.548,0.625,7.055,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Senecio_filaginoides,3,3,3711928,,0.77,NA,286,3.699,0.586,7.535,-44.924198,-70.099201,551,Patagonian_steppe,arbusto,Senecio,Sur_2021,Senecioneae,setose
+Hypochaeris_hookeri,1,1,3992364,,3.05,NA,288,16.839,0.91,14.094,-47.124621,-70.887237,704,Patagonian_steppe,hierba,Eker,Sur_2021,Cichorieae,setose
+Hypochaeris_hookeri,1,2,3613588,,2.97,NA,288,16.641,0.835,12.56,-47.124621,-70.887237,704,Patagonian_steppe,hierba,Eker,Sur_2021,Cichorieae,setose
+Hypochaeris_hookeri,1,3,3131800,,3.23,NA,288,16.224,0.72,13.952,-47.124621,-70.887237,704,Patagonian_steppe,hierba,Eker,Sur_2021,Cichorieae,setose
+Thelesperma_megapotamicum,1,1,2165436,,1.35,NA,293,5.576,0.65,7.437,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Thelesperma_megapotamicum,1,2,1962952,,1.36,NA,293,5.018,0.732,6.658,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Thelesperma_megapotamicum,1,3,2178308,,1.14,NA,293,5.332,0.727,6.664,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Thelesperma_megapotamicum,2,1,1445276,,1.34,NA,294,5.123,0.61,7.117,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Thelesperma_megapotamicum,2,2,1674692,,1.19,NA,294,4.834,0.62,6.79,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Thelesperma_megapotamicum,2,3,1691352,,0.93,NA,294,4.375,0.696,6.95,-48.37304,-72.041184,643,Patagonian_steppe,hierba,uniflora,Sur_2021,Coreopsideae,setose
+Grindelia_chiloensis,1,1,1032040,,3.83,NA,290,4.001,2.461,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,1,2,1211384,,2.39,NA,290,4.062,2.206,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,1,3,1168660,,3.31,NA,290,4.274,2.323,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,2,1,850476,,5.28,NA,291,4.755,1.794,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,2,2,880192,,5.27,NA,291,4.361,2.021,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,2,3,899560,,5.55,NA,291,4.914,2.598,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,3,1,972172,,2.6,NA,292,4.265,2.005,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,3,2,940980,,2.9,NA,292,4.297,2.356,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Grindelia_chiloensis,3,3,1147104,,2.48,NA,292,3.971,1.627,NA,-38.140013,-66.197174,257,Monte,hierba,cyclolepis,Sur_2021,Astereae,epappose
+Mutisia_acuminata,NA,1,5958144,,3.36,NA,311,8.842,1.072,15.755,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,2,6422100,,4.36,NA,312,10.39,1.057,18.566,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,3,4933028,,4.57,NA,313,10.564,1.217,18.614,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,4,6234924,,3.75,NA,315,9.726,1.029,17.752,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,5,6373616,,3.88,NA,316,10.159,9.09,17.461,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,6,8098296,,4.18,NA,317,10.134,1.168,18.077,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,7,5970632,,3,NA,318,9.786,0.89,17.997,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Mutisia_acuminata,NA,8,5742924,,3.07,NA,319,8.134,0.988,17.915,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Mutisieae,setose
+Praxelis_clematidea,1,1,5150988,,0.19,NA,320,2.263,0.409,4.076,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,1,2,4658852,,0.2,NA,320,2.18,0.522,3.352,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,1,3,4085276,,0.21,NA,320,2.128,0.62,3.986,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,2,1,3684552,,0.2,NA,321,2.014,0.594,4.378,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,2,2,4112604,,0.21,NA,321,1.95,0.681,4.265,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,2,3,6036328,,0.09,NA,321,1.863,0.657,3.926,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,3,1,4245532,,0.22,NA,322,2.229,0.637,3.896,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,3,2,4841080,,0.18,NA,322,2.077,0.63,4.037,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Praxelis_clematidea,3,3,3593568,,0.22,NA,322,2.168,0.758,3.865,-25.159,-65.612,1533,Southern_Andean_Yungas,hierba,Rio escoipe,norte_2020,Eupatorieae,setose
+Senecio_rufescens,1,1,2274060,,0.4,NA,307,2.687,0.719,7.814,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,1,2,1912068,,0.74,NA,307,2.597,0.522,7.705,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,1,3,1805644,,0.59,NA,307,2.627,0.631,7.065,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,2,1,2355736,,0.53,NA,308,2.135,0.504,6.399,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,2,2,1926376,,0.49,NA,308,2.34,0.538,6.668,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,2,3,2363132,,0.38,NA,308,2.796,0.603,6.769,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,3,1,1897976,,2.4,NA,309,4.046,1.054,7.043,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,3,2,2925580,,1.13,NA,309,4.131,0.904,7.479,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_rufescens,3,3,1451004,,2.22,NA,309,4.106,1.197,7.178,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,1,1,5505320,,0.63,NA,302,3.834,0.613,6.451,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,1,2,3819320,,0.8,NA,302,4.707,0.683,8.445,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,1,3,5270232,,0.43,NA,302,4.817,0.617,8.32,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,2,1,4620164,,0.7,NA,303,4.238,0.806,8.231,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,2,2,3848440,,1.16,NA,303,4.559,0.789,7.4,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,2,3,4625076,,0.56,NA,303,4.089,0.686,8.439,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,3,1,5624580,,0.36,NA,305,3.997,0.638,7.537,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,3,2,4805392,,0.98,NA,305,4.095,0.72,7.827,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Senecio_pampae,3,3,5056892,,0.78,NA,305,3.489,0.609,5.342,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Senecioneae,setose
+Angelphytum,1,1,914416,,0.88,NA,299,12.274,0.712,2.058,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,1,2,876312,,1.57,NA,299,10.773,0.58,3.599,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,1,3,837324,,2.02,NA,299,11.736,0.48,2.082,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,2,1,862328,,2.16,NA,300,11.089,0.698,3.256,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,2,2,886120,,1.75,NA,300,10.872,0.688,3.208,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,2,3,928252,,1.74,NA,300,11.923,0.58,3.109,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,3,1,939644,,1.58,NA,301,9.907,0.541,2.638,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,3,2,878632,,1.16,NA,301,11.229,0.453,2.565,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Angelphytum,3,3,1090240,,1.17,NA,301,13.547,0.691,2.356,-22.25,-65.125,4271,Central_Andean_puna,arbusto,Camino a Santa Victoria,norte_2020,Heliantheae,aristate
+Lorentzianthus_viscidus,NA,1,4737996,,0.06,NA,324,2.502,0.568,3.018,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Lorentzianthus_viscidus,NA,2,5455808,,0.08,NA,324,1.893,0.569,2.567,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Lorentzianthus_viscidus,NA,3,4825180,,0.07,NA,324,2.162,0.514,3.265,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Lorentzianthus_viscidus,NA,4,3401340,,0.23,NA,325,1.949,0.556,3.015,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Lorentzianthus_viscidus,NA,5,3774176,,0.14,NA,325,2.187,0.469,2.892,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Lorentzianthus_viscidus,NA,6,4215344,,0.11,NA,325,1.999,0.67,3.079,-23.919,-65.468,2080,Monte,arbusto,Laguna de Volcan,norte_2020,Eupatorieae,setose
+Austroeupatorium_inulifolium,1,1,4842024,,0.25,NA,326,2.334,0.555,3.989,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,1,2,4191272,,0.25,NA,326,2.14,0.663,4.08,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,1,3,5147336,,0.21,NA,326,2.18,0.55,3.812,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,2,1,9679680,,0.13,NA,327,2.014,0.568,3.663,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,2,2,4516980,,0.23,NA,327,1.944,0.557,3.313,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,2,3,5021832,,0.23,NA,327,2.184,0.584,3.742,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,3,1,4743892,,0.18,NA,328,1.941,0.495,3.114,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,3,2,4547164,,0.15,NA,328,2.08,0.511,3.18,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Austroeupatorium_inulifolium,3,3,5304968,,0.15,NA,328,2.053,0.448,3.562,-31.1517,-64.2836,730,Dry_Chaco,hierba,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Fleischmannia_prasiifolia,1,1,5618176,,0.09,NA,329,1.795,0.342,3.112,-31.1517,-64.2836,730,Dry_Chaco,Subarbusto,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Fleischmannia_prasiifolia,1,2,7361156,,0.08,NA,329,1.511,0.348,2.723,-31.1517,-64.2836,730,Dry_Chaco,Subarbusto,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Fleischmannia_prasiifolia,1,3,5604144,,0.1,NA,329,1.525,0.377,3.02,-31.1517,-64.2836,730,Dry_Chaco,Subarbusto,salsipuedes,Cordoba_2022,Eupatorieae,setose
+Fleischmannia_prasiifolia,3,1,3396292,,0.05,NA,330,1.993,0.365,2.781,-31.1517,-64.2836,730,Dry_Chaco,Subarbusto,salsipuedes,Cordoba_2022,Eupatorieae,setose
